@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 蔡雨琪
+title: YUQI CAI
 
 # Name pronunciation (optional)
-name_pronunciation: Qi Yu Cai
+#name_pronunciation: Qi Yu Cai
 
 # Full name (for SEO)
 first_name: Shiung Wu
