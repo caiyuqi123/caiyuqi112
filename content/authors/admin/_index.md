@@ -50,12 +50,12 @@ skills:
     items:
       - name: Java
         description: ''
-        percent: 90
+        percent: 85
         icon: java
         icon_pack: fab
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: python
         icon_pack: fab
       - name: SQL
@@ -69,15 +69,15 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Running
         description: ''
-        percent: 100
-        icon: cat
+        percent: 70
+        icon: person-running
         icon_pack: fas
-      - name: Photography
+      - name: Photoshop
         description: ''
         percent: 80
         icon: camera-retro
