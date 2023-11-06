@@ -38,29 +38,29 @@ education:
   courses:
     - course: Master's degree in big data and the Internet of Things
       institution: Macao Polytechnic University
-      year: 2023.09-Now
+      year: 2023
     - course: Bachelor of Mechanical Automation
       institution: Wuyi University
-      year: 2015.09-2019.06
+      year: 2015
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
+      - name: Java
+        description: ''
+        percent: 90
+        icon: java
+        icon_pack: fab
       - name: Python
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 85
         icon: database
         icon_pack: fas
   - name: Hobbies
