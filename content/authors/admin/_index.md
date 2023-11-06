@@ -6,8 +6,8 @@ title: YUQI CAI
 #name_pronunciation: Qi Yu Cai
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+#first_name: Shiung Wu
+#last_name: Chien
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Big Data And Internet Of Things
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Macao Polytechnic University
+    url: https://www.mpu.edu.mo/en/index.php
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
