@@ -55,37 +55,40 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: 2023.1-2013.9
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: JAVA Programmers
+          company: Wuhan Duolaima Information Technology Co., Ltd.
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          #company_logo: org-gc
+          location: Wuhan
+          date_start: '2023-01'
+          date_end: '2023-09'
+          description: Backend code writing for enterprise projects
+        - title: Information Technology Teacher
+          company: Huanan Experiment Middle School Of Fuzhou.
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          #company_logo: org-x
+          location: Fuzhou
+          date_start: '2020-02'
+          date_end: '2022-06'
+          description: Responsible for teaching computer courses and training programming clubs
+        - title: Copywriter，Operators
+          company: Wuyishan Shangjing Creative Design Co., Ltd.
+          company_url: ''
+          #company_logo: org-x
+          location: Wuyishan
+          date_start: '2019-07'
+          date_end: '2020-01'
+          description: Writing of product copy and operation of WeChat official account
     design:
       columns: '2'
-  - block: accomplishments
+ # - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Accomplish&shy;ments'
